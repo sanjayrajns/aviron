@@ -28,4 +28,4 @@ npm run dev        # Starts your Next.js development server (usually on http://l
 
 ```
 
-### Model Accepting .txt file changes the model and also api file according to the input
+### Model Accepting .txt file for demo change the model and also the api file according to the input of the ml model
