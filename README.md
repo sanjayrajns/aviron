@@ -1,4 +1,8 @@
+```
+Dependencies may vary according to the model requirements. This repo  contains a demo model
 
+Update requirements.txt for extra dependencies
+```
 ---
 
 ## ⚙️ Setup Instructions
