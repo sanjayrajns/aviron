@@ -15,7 +15,7 @@ uvicorn main:app --reload
 
 ```
 ```
-backend/ml_model.py
+the ml model -----> backend/ml_model.py
 ```
 
 ### Frontend Commands (Next.js project inside frontend/ folder):
